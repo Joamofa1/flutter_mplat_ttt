@@ -61,4 +61,4 @@ On the other hand, the web runtime doesn't support the use of ```dart:io``` at a
 
 In the fullness of time, none of this is necessary, but it's a pretty cool hack for now.
 
-Enjoy!
+Enjoy now!
